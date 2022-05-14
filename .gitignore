@@ -18,5 +18,3 @@ target
 
 out
 *.log
-
-checkstyle.xml
